@@ -5,6 +5,7 @@
 body {
   color: rgb(var(--foreground-rgb));
   background-color: rgb(34, 34, 34);
+  cursor: cell;
 }
 
 @layer utilities {
